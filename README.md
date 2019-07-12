@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
+This is a weather application written in React Native. It utilizes the [MetaWeather API](https://www.metaweather.com/) to display realtime weather data for any location.
+
+Screenshots:
+
+ <div class="row">
+  <div class="column">
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC1.PNG" alt="img1" width=40%>
+  </div>
+  <div class="column">
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC4.PNG" alt="img4" width=40%>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC3.PNG" alt="img3" width=40%>
+  </div>
+ <div class="column">
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC2.PNG" alt="img2" width=40%>
+ </div>
+</div> 
+
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
 ## Table of Contents
