@@ -6,18 +6,18 @@ Screenshots:
 
  <div class="row">
   <div class="column">
-    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC1.PNG" alt="img1" width=40%>
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC1.PNG" alt="img1" width=30%>
   </div>
   <div class="column">
-    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC4.PNG" alt="img4" width=40%>
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC4.PNG" alt="img4" width=30%>
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC3.PNG" alt="img3" width=40%>
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC3.PNG" alt="img3" width=30%>
   </div>
  <div class="column">
-    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC2.PNG" alt="img2" width=40%>
+    <img src="https://github.com/refai1/RN-weather-app/blob/master/weatherSC2.PNG" alt="img2" width=30%>
  </div>
 </div> 
 
