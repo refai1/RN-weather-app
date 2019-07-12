@@ -1,8 +1,10 @@
+## Demo
 To Demo this project. Download Expo and visit this [URL](https://exp.host/@refai1/weather-app)
 
+## Description
 This is a weather application written in React Native. It utilizes the [MetaWeather API](https://www.metaweather.com/) to display realtime weather data for any location.
 
-Screenshots:
+## Screenshots
 
  <div class="row">
   <div class="column">
